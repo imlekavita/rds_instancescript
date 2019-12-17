@@ -1,0 +1,6 @@
+Rds instance creation steps
+
+1.create subnet group(specify which db u you can used supported region)
+2. create parameter group(you can specify parameter changes in the db)
+3.create security group(allow to incoming traffic to rds instances)
+4.create rds instance
